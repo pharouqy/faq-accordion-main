@@ -76,3 +76,10 @@ h2 {
 .hide {
   display: none;
 }
+
+@media all and (max-width: 425px) {
+  aside {
+    width: 360px;
+    font-size: 0.5rem;
+  }
+}
