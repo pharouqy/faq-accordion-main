@@ -77,6 +77,10 @@ h2 {
   display: none;
 }
 
+.faq {
+  justify-content: space-between
+}
+
 @media all and (max-width: 425px) {
   aside {
     width: 360px;
